@@ -1,0 +1,34 @@
+[
+  {
+    "package": "CPTTools",
+    "url": "https://github.com/ralmond/CPTTools"
+   },
+   {
+    "package": "RNetica",
+    "url": "https://github.com/ralmond/RNetica"
+   },
+   {
+    "package": "Peanut",
+    "url": "https://github.com/ralmond/Peanut"
+   },
+   {
+    "package": "PNetica",
+    "url": "https://github.com/ralmond/PNetica"
+   },
+   {
+    "package": "Proc4",
+    "url": "https://github.com/ralmond/Proc4"
+   },
+   {
+    "package": "EIEvewnt",
+    "url": "https://github.com/ralmond/EIEvent"
+   },
+   {
+    "package": "EABM",
+    "url": "https://github.com/ralmond/EABN"
+   },
+   {
+    "package": "RGAutils",
+    "url": "https://github.com/ralmond/RGAutils"
+   }
+]
