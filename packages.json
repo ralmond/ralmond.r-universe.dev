@@ -1,6 +1,6 @@
 [
   {
-    "package": "CPTTools",
+    "package": "CPTtools",
     "url": "https://github.com/ralmond/CPTtools"
    },
    {
@@ -20,11 +20,11 @@
     "url": "https://github.com/ralmond/Proc4"
    },
    {
-    "package": "EIEvewnt",
+    "package": "EIEvent",
     "url": "https://github.com/ralmond/EIEvent"
    },
    {
-    "package": "EABM",
+    "package": "EABN",
     "url": "https://github.com/ralmond/EABN"
    },
    {
