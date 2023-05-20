@@ -28,7 +28,7 @@
     "url": "https://github.com/ralmond/EABN"
    },
    {
-    "package": "RGAutils",
-    "url": "https://github.com/ralmond/RGAutils"
+    "package": "mongo",
+    "url": "https://github.com/ralmond/mongo"
    }
 ]
